@@ -774,7 +774,7 @@ address :focus {
 .input-checkbox:checked+.modal-privacy>.modal-span {
   background-color: #404BBF;
   border: none;
-  fill: #FFFFFF;
+  fill: #F4F4FD;
   border-color: #404BBF;
 }
 
@@ -785,7 +785,6 @@ address :focus {
 }
 
 .button-final {
-  display: block;
   min-width: 169px;
   height: 56px;
   font-family: "Roboto", sans-serif;
