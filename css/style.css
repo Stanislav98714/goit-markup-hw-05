@@ -771,12 +771,14 @@ address :focus {
   margin-right: 8px;
 }
 
-
-.modal-privacy:hover .modal-span {
-  background-color: #404bbf;
+.input-checkbox:checked+.modal-privacy>.modal-span {
+  background-color: #404BBF;
   border: none;
-  fill: #F4F4FD;
+  fill: #FFFFFF;
+  border-color: #404BBF;
 }
+
+
 
 .modal-link {
   color: #4d5ae5;
